@@ -1,0 +1,6 @@
+{
+  "name": "Artistic Touch #Hager",
+  "description": "Artistic Touch #Hager — Premium creative art brand, handmade artisanal collections, botanical art, fine stationery, and curated art supplies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
